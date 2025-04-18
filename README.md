@@ -16,7 +16,6 @@ A modern, responsive travel booking and reservation web application built with *
 
 ## 📸 Screenshots
 
-> _(Add screenshots of your landing page, booking UI, and login page if available)_
 
 ---
 
